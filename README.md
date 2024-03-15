@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sanket Kaware</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SanketKaware&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SanketKaware&show_icons=true&locale=en&layout=compact" alt="abi-liu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SanketKaware&show_icons=true&locale=en" alt="abi-liu" /></p>
 
 <!--
 **SanketKaware/SanketKaware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
